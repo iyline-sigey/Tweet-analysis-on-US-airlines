@@ -1,0 +1,2 @@
+# Tweet-analysis-on-US-airlines
+The project is an analysis of data from Twitter regarding customer sentiment for 6 US airlines: American, Delta, Southwest Airlines, United, US Airways, and Virgin America.Then use Tensor Flow to predict the chance of a tweet to be positive,negative or neutral.. This project seeks to predict if a tweet if negative or positive using neural networks. The analysis have been conducted using tensorflow keras.
